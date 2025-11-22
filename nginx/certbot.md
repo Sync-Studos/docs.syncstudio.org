@@ -1,4 +1,4 @@
-# Issue SSL Certificate
+
 
 To issue our SSL certificate we want to run the below command and replace the domain name to ours.
 ```
